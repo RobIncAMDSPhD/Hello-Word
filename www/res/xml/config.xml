@@ -1,0 +1,6 @@
+<feature name="InAppBrowser">
+    <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+</feature>
+<feature name="DatePicker">
+   <param name="android-package" value="com.plugin.datepicker.DatePicker" />
+</feature>
